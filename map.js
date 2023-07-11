@@ -1,3 +1,4 @@
-const item = [1,2,3,4,5];
-const myvalue = item.map((number) => {number});
-console.log(myvalue);
+const myArray = ['apple', 'banana', 'orange'];
+
+const myList = myArray.map((item) => {item});
+console.log(myList);

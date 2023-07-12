@@ -25,6 +25,7 @@ console.log(rest)
 
 
 // We can use the spread operator with objects too:
+// Color override in this example 
 
 const myVehicle = {
     brand: 'Ford',
